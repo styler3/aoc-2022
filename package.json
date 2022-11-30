@@ -2,8 +2,14 @@
   "name": "aoc-2022",
   "version": "1.0.0",
   "description": "Solutions for advent of code 2022",
+  "scripts": {
+    "test": "jest"
+  },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/styler3/aoc-2022.git"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
   }
 }
