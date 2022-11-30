@@ -1,0 +1,9 @@
+{
+  "name": "aoc-2022",
+  "version": "1.0.0",
+  "description": "Solutions for advent of code 2022",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/styler3/aoc-2022.git"
+  }
+}
