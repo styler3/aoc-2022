@@ -8,8 +8,8 @@ const {
 
 describe('Part one solution', () => {
     it('Solves the example inputs', () => {
-        for (const {input, output} of exampleInputs) {
-	    expect(solvePartOne(input)).toEqual(output);
+        for (const {input, outputPartOne} of exampleInputs) {
+	    expect(solvePartOne(input)).toEqual(outputPartOne);
 	}
     });
 
@@ -20,8 +20,8 @@ describe('Part one solution', () => {
 
 describe('Part two solution', () => {
     it('Solves the example inputs', () => {
-        for (const {input, output} of exampleInputs) {
-	    expect(solvePartTwo(input)).toEqual(output);
+        for (const {input, outputPartTwo} of exampleInputs) {
+	    expect(solvePartTwo(input)).toEqual(outputPartTwo);
 	}
     });
 

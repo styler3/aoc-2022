@@ -1,7 +1,8 @@
 const exampleInputs = [
     {
         input: 1,
-        output: 1
+        outputPartOne: 1,
+        outputPartTwo: 1,
     }
 ];
 
