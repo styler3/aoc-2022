@@ -6,7 +6,7 @@ const exampleInputs = [
 33549
 35390`,
         outputPartOne: 21,
-        outputPartTwo: 1,
+        outputPartTwo: 8,
     }
 ];
 

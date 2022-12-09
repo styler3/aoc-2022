@@ -19,13 +19,13 @@ describe('Part one solution', () => {
 });
 
 describe('Part two solution', () => {
-    it.skip('Solves the example inputs', () => {
+    it('Solves the example inputs', () => {
         for (const {input, outputPartTwo} of exampleInputs) {
 	    expect(solvePartTwo(input)).toEqual(outputPartTwo);
 	}
     });
 
-    it.skip('Solves the real input', () => {
+    it('Solves the real input', () => {
         expect(solvePartTwo(realInput)).toEqual(realOutputPartTwo);
     });
 });
